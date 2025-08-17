@@ -1,11 +1,10 @@
-# Dragon-Ball-Radar-
 # Dragon Ball Radar (HTML + CSS)
 
 Fun UI experiment: a recreation of the Dragon Ball Radar using only HTML & CSS.  
 Inspired by the anime, built to practice CSS animations and layout techniques.
 
 ## 🖥️ Live Demo
-👉 [Check it out here]
+👉 [Check it out here](https://roviiiz.github.io/Dragon-Ball-Radar-/)
 
 ## 🛠️ Tech Stack
 - HTML5  
